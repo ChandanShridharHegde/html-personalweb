@@ -1,0 +1,60 @@
+.py-3 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+.image{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+img{
+    border-radius: 50%;
+    border: 3px solid blue;
+}
+h1{
+    
+    text-align: center;
+   padding-top: 30px;
+}
+b{
+    color:#0000CD ;;
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+td,th{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    background-color: blanchedalmond;
+}
+th{
+    width: 70%;
+}
+th:nth-child(1), td:nth-child(1) {
+    width: 5%;
+  }
+
+  th:nth-child(2), td:nth-child(2) {
+    width: 50%;
+  }
+
+  th:nth-child(3), td:nth-child(3) {
+    width: 45%;}
+    p{
+        text-align: center;
+    }
+footer{
+    padding-left: 10px;
+    text-decoration: none;
+}
